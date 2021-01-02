@@ -39,13 +39,13 @@ Sumber utama ayat-ayat Al-Quran dan terjemahannya dalam project ini didapat dari
 
 ## Laporkan Kesalahan
 
-Al-Quran adalah kitab suci sempurna yang diturunkan Allah SWT. segala bentuk kesalahan yang ada pada project ini adalah pasti karena kebodohan dan kekhilafan saya sendiri. Untuk itu mohon dengan hormat jika anda menemukan ada suatu kesalahan untuk menghubungi saya melalui email di **rio@rioastamal.net**.
+Al-Quran adalah kitab suci sempurna yang diturunkan Allah SWT. segala bentuk kesalahan yang ada pada project ini adalah pasti karena kebodohan dan kekhilafan saya sendiri. Untuk itu mohon dengan hormat jika anda menemukan ada suatu kesalahan untuk menghubungi saya melalui email di **info@ecofinco.com**.
 
 ## Build
 
 Untuk melakukan build anda memerlukan PHP interpreter pada sistem anda. Hasil build akan disimpan dalam direktori `build/public`. Konten dari direktori tersebut yang dapat anda upload ke server.
 
-Script ini memerlukan file quran dan terjemahan yang ada pada project [quran-json](https://github.com/rioastamal/quran-json).
+Script ini memerlukan file quran dan terjemahan yang ada pada project [quran-json](https://github.com/ecofinco/quran-json).
 
 ### Cara menjalankan build
 
@@ -64,7 +64,7 @@ Berikut adalah daftar konfigurasi yang dapat diubah.
 | Konfigurasi | Status | Keterangan |
 |-------------|--------|------------|
 | QURAN\_JSON\_DIR | **required** | Path ke quran-json project |
-| QURAN\_BASE\_URL | **required** | Base URL dari website contoh: https://quranweb.id. Tanpa slash diakhir. Default is tidak ada.
+| QURAN\_BASE\_URL | **required** | Base URL dari website contoh: http://kalam.ecofinco.com. Tanpa slash diakhir. Default is tidak ada.
 | QURAN\_BASE_MUROTTAL\_URL | optional | Base URL dari audio murottal. Contoh https://quranweb.id/murottal. Tanpa slash diakhir. Default tidak ada |
 | QURAN\_BEGIN\_SURAH | optional | Awal surah. Default = 1 |
 | QURAN\_END\_SURAH | optional | Akhir surah. Default = 114 |
