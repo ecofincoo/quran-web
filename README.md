@@ -29,9 +29,9 @@ Kebanyakan mobile site tersebut menggunakan terlalu banyak javascript sehingga l
 
 Dalam proses pembuatan itulah saya juga membuat beberapa project Al-Quran lain diantaranya.
 
-- [quran-text](https://github.com/rioastamal/quran-text)
-- [quran-json](https://github.com/rioastamal/quran-json)
-- [quran-single-file](https://github.com/rioastamal/quran-single-file)
+- [quran-text](https://github.com/ecofinco/quran-text)
+- [quran-json](https://github.com/ecofinco/quran-json)
+- [quran-single-file](https://github.com/ecofinco/quran-single-file)
 
 ## Sumber
 
@@ -81,7 +81,7 @@ $ rm -rf build/*
 
 ## Penulis
 
-Project ini dibuat oleh Rio Astamal \<rio@rioastamal.net\>.
+Project ini dibuat oleh Rio Astamal \<info@ecofinco.com\>.
 
 ## Kontribusi
 
